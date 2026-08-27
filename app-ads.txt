@@ -1,1 +1,9 @@
 google.com, pub-9627091600749906, DIRECT, f08c47fec0942fa0
+facebook.com, 4100547140211332, RESELLER, c3e20eee3f780d68
+facebook.com, 1023915157177756, RESELLER, c3e20eee3f780d68
+1.
+Pangle (DIRECT) — pangleglobal.com, 5033937, DIRECT
+2.
+Pangle DSP (PubMatic) — pubmatic.com, 161490, RESELLER, 5d62403b186f2ace
+3.
+Formatting checks (common errors) — Make sure there is a space after each comma (e.g. `pangleglobal.com, 5033937, DIRECT`).`DIRECT` must be ALL CAPS.Don’t use the same account ID with different relationship types (e.g. don’t add another line like `pangleglobal.com, 5033937, RESELLER`).
